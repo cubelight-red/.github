@@ -1,6 +1,6 @@
-## 关于CubeLight
+## 关于 CubeLight
 
-CubeLight是个自发成立的独立游戏研发小组。
+CubeLight 是个自发成立的独立游戏研发小组。
 
 如果你有兴趣和我们一起创造一个无限可能的游戏世界，欢迎加入我们！
 
@@ -8,11 +8,11 @@ CubeLight是个自发成立的独立游戏研发小组。
 
 ### 加入我们
 
-主页： CubeLight.Red
+主页： [CubeLight.Red](https://cubelight.red)
 
 QQ群：906962356
 
-TG群：加入
+TG群：[加入](https://t.me/joinchat/qD5knUaM9FNjYmI1)
 
 ### 游戏交流群
 
